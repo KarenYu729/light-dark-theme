@@ -4,3 +4,5 @@
 
 # Reference
 <a href='https://www.youtube.com/watch?v=RiWxhm5ZdFM&t=26s'>https://www.youtube.com/watch?v=RiWxhm5ZdFM&t=26s</a>
+
+<a href='https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp'>https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp</a>
