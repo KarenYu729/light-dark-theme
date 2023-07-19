@@ -18,4 +18,8 @@ useLocalStorage hook
 
 ## light-dark-theme-3
 
+<img width="960" alt="1689726123725" src="https://github.com/KarenYu729/light-dark-theme/assets/97644710/5914f5fa-f85b-406c-bd91-2f3135486fa2">
 
+<img width="960" alt="1689726113523" src="https://github.com/KarenYu729/light-dark-theme/assets/97644710/f63d6487-9432-4507-9d57-3a327ab5b649">
+
+change global style through api (styled-components)
